@@ -1,0 +1,8 @@
+<code_scheme name="Default (1)">
+  <TypeScriptCodeStyleSettings>
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+  </codeStyleSettings>
+</code_scheme>
