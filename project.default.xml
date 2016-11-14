@@ -20,13 +20,6 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="Bundled (Maven 3)" />
-          </MavenGeneralSettings>
-        </option>
-      </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -37,13 +30,7 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="MavenSettings" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-        <property name="last_opened_file_path" value="/usr/local/bin" />
-      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" />
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
@@ -102,33 +89,11 @@
           <option name="PORT" value="5005" />
           <method />
         </configuration>
-        <configuration default="true" type="TestNG" factoryName="TestNG">
-          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-          <module name="" />
-          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-          <option name="ALTERNATIVE_JRE_PATH" />
-          <option name="SUITE_NAME" />
-          <option name="PACKAGE_NAME" />
+        <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
           <option name="MAIN_CLASS_NAME" />
-          <option name="METHOD_NAME" />
-          <option name="GROUP_NAME" />
-          <option name="TEST_OBJECT" value="CLASS" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-          <option name="OUTPUT_DIRECTORY" />
-          <option name="ANNOTATION_TYPE" />
-          <option name="ENV_VARIABLES" />
-          <option name="PASS_PARENT_ENVS" value="true" />
-          <option name="TEST_SEARCH_SCOPE">
-            <value defaultName="singleModule" />
-          </option>
-          <option name="USE_DEFAULT_REPORTERS" value="false" />
-          <option name="PROPERTIES_FILE" />
-          <envs />
-          <properties />
-          <listeners />
-          <method />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
         </configuration>
       </component>
       <component name="masterDetails">

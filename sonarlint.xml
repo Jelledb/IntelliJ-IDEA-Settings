@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <password>dfe2dfcfdfdedfe7dfc5dfcfdfdedffddfcfdfc6df9bdf9d</password>
+          <option name="hostUrl" value="https://sonar.triopsys.net" />
+          <option name="login" value="jdenburger" />
+          <option name="name" value="TriOpSys Sonar" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
