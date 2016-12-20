@@ -1,0 +1,17 @@
+<templateSet group="JavaScript">
+  <template name="jit" value="it('$TEST_DESC$', () =&gt; {&#10;    $END$&#10;});" description="Jasmine it block" toReformat="false" toShortenFQNames="true">
+    <variable name="TEST_DESC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
+  <template name="jde" value="desc('$DESC_DESC$', () =&gt; {&#10;    it('$TEST_DESC$', () =&gt; {&#10;        $END$&#10;    });&#10;});" description="Jasmine desc block" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="DESC_DESC" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEST_DESC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
+</templateSet>
