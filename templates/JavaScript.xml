@@ -6,7 +6,7 @@
       <option name="JSX_HTML" value="false" />
     </context>
   </template>
-  <template name="jde" value="desc('$DESC_DESC$', () =&gt; {&#10;    it('$TEST_DESC$', () =&gt; {&#10;        $END$&#10;    });&#10;});" description="Jasmine desc block" toReformat="false" toShortenFQNames="true">
+  <template name="jde" value="describe('$DESC_DESC$', () =&gt; {&#10;    it('$TEST_DESC$', () =&gt; {&#10;        $END$&#10;    });&#10;});" description="Jasmine desc block" toReformat="false" toShortenFQNames="true">
     <variable name="DESC_DESC" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TEST_DESC" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
