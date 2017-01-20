@@ -28,6 +28,19 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="AngularJS" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="node_modules" />
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Documents/ProjectRapportageTool/client/node_modules/angular/angular.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Documents/ProjectRapportageTool/client/node_modules/angular/angular.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="jasmine-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
