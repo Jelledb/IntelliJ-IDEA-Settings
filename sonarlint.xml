@@ -3,10 +3,11 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <password>dfe2dfcfdfdedfe7dfc5dfcfdfdedffddfcfdfc6df9bdf9d</password>
-          <option name="hostUrl" value="https://sonar.triopsys.net" />
-          <option name="login" value="jdenburger" />
+          <option name="hostUrl" value="https://sonar.triopsys.net/" />
+          <token />
           <option name="name" value="TriOpSys Sonar" />
+          <option name="login" value="jdenburger" />
+          <password>dfe2dfcfdfdedfe7dfc5dfcfdfdedffddfcfdfc6df9bdf9d</password>
         </SonarQubeServer>
       </list>
     </option>
